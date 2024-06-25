@@ -32,6 +32,7 @@ export default function LandingPageSection1() {
         <h1>
           Welcome to BloggerDogger a Platform where everyone can bog freely!
         </h1>
+        <button>Start Blogging</button>
       </div>
     </div>
   );
